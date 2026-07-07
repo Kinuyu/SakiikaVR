@@ -1,0 +1,13 @@
+{
+  "name": "com.marusansi.provider.worlds",
+  "displayName": "Marusansi Worlds Panel",
+  "version": "0.0.1",
+  "description": "Public P2P world directory panel for MarusansiVR. Lists worlds announced on Misskey and provides Misskey login via MiAuth, so no dedicated directory server is needed. Replaces the retired Servers panel (com.basis.provider.servers).",
+  "author": {
+    "name": "MarusansiVR"
+  },
+  "license": "MIT",
+  "vpmDependencies": {
+    "com.basis.sdk": "0.0.1"
+  }
+}

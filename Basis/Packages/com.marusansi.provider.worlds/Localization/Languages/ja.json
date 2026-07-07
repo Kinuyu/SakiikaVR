@@ -1,0 +1,146 @@
+{
+  "code": "ja",
+  "nativeName": "日本語",
+  "entries": [
+    {
+      "key": "menu.provider.publicWorlds",
+      "value": "ワールド"
+    },
+    {
+      "key": "embedded.item.Personal Mirror",
+      "value": "パーソナルミラー"
+    },
+    {
+      "key": "embedded.item.Photo Camera",
+      "value": "カメラ"
+    },
+    {
+      "key": "marusansi.worlds.refresh",
+      "value": "更新"
+    },
+    {
+      "key": "marusansi.worlds.join",
+      "value": "参加"
+    },
+    {
+      "key": "marusansi.worlds.empty",
+      "value": "現在公開中のワールドはありません。ライブラリのワールドタブから公開してみましょう!"
+    },
+    {
+      "key": "marusansi.worlds.querying",
+      "value": "Misskeyを検索中…"
+    },
+    {
+      "key": "marusansi.worlds.unnamed",
+      "value": "名称未設定ワールド"
+    },
+    {
+      "key": "marusansi.worlds.row.description",
+      "value": "ホスト: {0}  •  {1}  •  {2}"
+    },
+    {
+      "key": "marusansi.worlds.minutesAgo",
+      "value": "{0}分前"
+    },
+    {
+      "key": "marusansi.worlds.hoursAgo",
+      "value": "{0}時間前"
+    },
+    {
+      "key": "marusansi.worlds.misskey",
+      "value": "Misskeyアカウント"
+    },
+    {
+      "key": "marusansi.worlds.misskey.description",
+      "value": "ワールドの公開・参加にはMisskeyログインが必要です。ユーザー名にはMisskeyのアカウント名が使われます。"
+    },
+    {
+      "key": "marusansi.worlds.instance",
+      "value": "インスタンスURL"
+    },
+    {
+      "key": "marusansi.worlds.login",
+      "value": "Misskeyでログイン"
+    },
+    {
+      "key": "marusansi.worlds.logout",
+      "value": "ログアウト"
+    },
+    {
+      "key": "marusansi.worlds.loginWaiting",
+      "value": "ブラウザでの許可を待っています…"
+    },
+    {
+      "key": "marusansi.worlds.loginFailed",
+      "value": "ログインに失敗またはタイムアウトしました。"
+    },
+    {
+      "key": "marusansi.worlds.loggedInAs",
+      "value": "ログイン中: @{0}({1})"
+    },
+    {
+      "key": "marusansi.worlds.notLoggedIn",
+      "value": "未ログイン"
+    },
+    {
+      "key": "marusansi.home.set",
+      "value": "ホームワールドに設定"
+    },
+    {
+      "key": "marusansi.home.unset",
+      "value": "ホームワールドを解除"
+    },
+    {
+      "key": "library.p2p.invite",
+      "value": "インバイトで開く"
+    },
+    {
+      "key": "library.p2p.public",
+      "value": "パブリックで開く"
+    },
+    {
+      "key": "library.p2p.needMisskey",
+      "value": "Misskeyログインが必要です"
+    },
+    {
+      "key": "marusansi.session.misskeyRequired.title",
+      "value": "Misskeyログインが必要です"
+    },
+    {
+      "key": "marusansi.session.misskeyRequired.body",
+      "value": "ワールドを開く・参加するには、ワールドパネルでMisskeyにログインしてください。ユーザー名にはMisskeyのアカウント名が使われます。"
+    },
+    {
+      "key": "marusansi.session.hostFailed",
+      "value": "ホストセッションを開始できませんでした。"
+    },
+    {
+      "key": "marusansi.session.startedInvite.title",
+      "value": "インバイトワールドを開始しました"
+    },
+    {
+      "key": "marusansi.session.startedPublic.title",
+      "value": "パブリックワールドを開始しました"
+    },
+    {
+      "key": "marusansi.session.started.body",
+      "value": "「{0}」を開きました。\n\n接続文字列(クリップボードにコピー済み):\n{1}\n\nフレンドに共有すると招待できます。"
+    },
+    {
+      "key": "marusansi.session.noPublicIp",
+      "value": "グローバルIPを取得できなかったため、Misskeyへの公開投稿は行われませんでした。"
+    },
+    {
+      "key": "marusansi.session.announceFailed",
+      "value": "Misskeyへの公開ノート投稿に失敗しました。接続文字列からは引き続き参加できます。"
+    },
+    {
+      "key": "marusansi.session.joinFailed.title",
+      "value": "参加に失敗しました"
+    },
+    {
+      "key": "marusansi.session.badConnection.body",
+      "value": "接続情報を解析できませんでした:\n{0}"
+    }
+  ]
+}
